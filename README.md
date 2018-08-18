@@ -23,3 +23,6 @@ resolvers ++= Seq (
 )
 
 ```
+
+
+See full explanation here: http://www.congiu.com/basic-authorization-and-htaccess-style-authentication-on-the-play-framework-an-silhouete/
